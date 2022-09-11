@@ -1,6 +1,6 @@
 {
   "name": "calculator-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a basic calculator cli with addition feature",
   "bin": "./dist/index.js",
   "type": "module",
