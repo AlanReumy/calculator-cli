@@ -4,6 +4,8 @@
   "description": "a basic calculator cli with addition feature",
   "bin": "./dist/index.js",
   "type": "module",
+  "homnepage":"https://github.com/vikoala/calculator-cli#readme",
+  "repository": "github:vikoala/calculator-cli",
   "scripts": {
     "build": "tsc",
     "test":"pnpm run build && npm link"
